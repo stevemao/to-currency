@@ -1,0 +1,27 @@
+{
+  "name": "to-currency",
+  "version": "0.0.0",
+  "description": "Convert number to currency format",
+  "repository": "https://github.com/stevemao/to-currency",
+  "author": "Steve Mao",
+  "license": "MIT",
+  "keywords": [
+    "number",
+    "currency",
+    "locale",
+		"localisation",
+		"internationalisation",
+		"i18n",
+		"currencyCode",
+		"currencySymbol"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
