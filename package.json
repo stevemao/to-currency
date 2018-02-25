@@ -16,12 +16,13 @@
     "currencySymbol"
   ],
   "scripts": {
-    "test": "jest"
+    "test": "node --icu-data-dir=node_modules/full-icu node_modules/.bin/jest"
   },
   "engines": {
     "node": ">=6"
   },
   "devDependencies": {
+    "full-icu": "^1.2.1",
     "jest": "^21.2.1"
   }
 }
