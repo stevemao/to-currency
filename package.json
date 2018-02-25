@@ -9,11 +9,11 @@
     "number",
     "currency",
     "locale",
-		"localisation",
-		"internationalisation",
-		"i18n",
-		"currencyCode",
-		"currencySymbol"
+    "localisation",
+    "internationalisation",
+    "i18n",
+    "currencyCode",
+    "currencySymbol"
   ],
   "scripts": {
     "test": "jest"
