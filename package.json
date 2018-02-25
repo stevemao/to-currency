@@ -1,6 +1,6 @@
 {
   "name": "to-currency",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert number to currency format",
   "repository": "https://github.com/stevemao/to-currency",
   "author": "Steve Mao",
